@@ -14,15 +14,3 @@
 
 ###
 
-<h2 align="left">Trabajo con: </h2>
-
-###
-
-<div align="left">
-  <div align="left">
-  <img src="https://github.com/SuaveV9/SuaveV9/assets/78668658/4e7388d9-802f-47d9-bbf6-75797e68dbed" height="40" alt="HTML Logo"  />
-  <img width="12" />
-</div>
-
-###
-
