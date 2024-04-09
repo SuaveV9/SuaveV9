@@ -41,7 +41,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/SuaveV9/SuaveV9/output/snake.svg" alt="Snake animation" />
-
-###
